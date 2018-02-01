@@ -5,7 +5,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Welcome to Spring Web MVC project demo</title>
+        <title>Welcome to Spring Web MVC project demo vvvvvvvjvjvvvjvjkkiuggkuugik</title>
     </head>
 
     <body>
